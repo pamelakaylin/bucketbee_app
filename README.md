@@ -1,4 +1,4 @@
-# bucketbee_app
+# Bucketbee
 
 Lifestyle app for global citizens (mobile) 
 
